@@ -25,4 +25,4 @@ module.exports = {
     await knex.schema.dropTableIfExists(tables.verhuuring);
   },
 }; 
-   
+    
